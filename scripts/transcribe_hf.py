@@ -42,22 +42,21 @@ for root, dirs, files in tqdm(os.walk("data")):
 
                 list_of_times.append(time_taken)
                 
-            
-            # # Remove the absolute root path from the file path
-            # file_path = file_path.replace(abs_root, root)
+                # Remove the absolute root path from the file path
+                file_path = file_path.replace(abs_root, root)
 
-            # # remove the .wav suffix
-            # file_path = file_path.replace(".wav", "")
+                # remove the .wav suffix
+                file_path = file_path.replace(".wav", "")
 
-            # # Create a folder to store the transcript
-            # os.makedirs(f"./transcripts/{root}", exist_ok=True)
+                # Create a folder to store the transcript
+                os.makedirs(f"./transcripts/{root}", exist_ok=True)
 
-            # # save the transcription to a file with the same name as the audio file.
-            # if "text" in transcript:
-            #     with open(f"./transcripts/{file_path}.txt", "w") as f:
-            #             f.write(transcript["text"])
+                # save the transcription to a file with the same name as the audio file.
+                if "text" in transcript:
+                    with open(f"./transcripts/{file_path}.txt", "w") as f:
+                            f.write(transcript["text"])
 
 # Save the list of times to a file
-with open("times.txt", "w") as f:
+with open("hf_times.txt", "w") as f:
     for time in list_of_times:
         f.write(f"{time}\n")

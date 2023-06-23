@@ -32,7 +32,7 @@ for j, (root, dirs, files) in tqdm(enumerate(os.walk(audio_dir))):
 df = pd.DataFrame(transcripts)
 
 # Save the dataframe to a csv file
-df.to_csv('./transcripts/transcripts.csv', index=False)
+df.to_csv('./transcripts/labels/transcripts.csv', index=False)
 
 # Print the time taken to execute the script
 print(f"Time taken: {time.time() - start} seconds")
