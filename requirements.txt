@@ -1,0 +1,8 @@
+transformers
+tqdm
+assemblyai
+matplotlib
+pandas
+librosa
+datasets 
+jiwer
