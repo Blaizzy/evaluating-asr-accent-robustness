@@ -1,6 +1,7 @@
 *.wav
 .DS_STORE
 *.wav.icloud
-*.txt
+accentsDB/transcripts/**/*.txt
 .env
 *.icloud
+
