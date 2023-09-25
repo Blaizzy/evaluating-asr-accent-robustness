@@ -1,0 +1,140 @@
+language,composite_code,code
+Acehnese (Arabic script),ace_Arab,ac
+Tunisian Arabic,aeb_Arab,ae
+Afrikaans,afr_Latn,af
+South Levantine Arabic,ajp_Arab,aj
+Akan,aka_Latn,ak
+Amharic,amh_Ethi,am
+North Levantine Arabic,apc_Arab,ap
+Modern Standard Arabic,arb_Arab,ar
+Assamese,asm_Beng,as
+Awadhi,awa_Deva,aw
+Central Aymara,ayr_Latn,ay
+South Azerbaijani,azb_Arab,az
+Bashkir,bak_Cyrl,ba
+Belarusian,bel_Cyrl,be
+Bhojpuri,bho_Deva,bh
+Banjar (Arabic script),bjn_Arab,bj
+Standard Tibetan,bod_Tibt,bo
+Buginese,bug_Latn,bu
+Catalan,cat_Latn,ca
+Cebuano,ceb_Latn,ce
+Chokwe,cjk_Latn,cj
+Central Kurdish,ckb_Arab,ck
+Crimean Tatar,crh_Latn,cr
+Welsh,cym_Latn,cy
+Danish,dan_Latn,da
+German,deu_Latn,de
+Southwestern Dinka,dik_Latn,di
+Dyula,dyu_Latn,dy
+Dzongkha,dzo_Tibt,dz
+Greek,ell_Grek,el
+English,eng_Latn,en
+Esperanto,epo_Latn,ep
+Estonian,est_Latn,es
+Basque,eus_Latn,eu
+Ewe,ewe_Latn,ew
+Faroese,fao_Latn,fa
+Fijian,fij_Latn,fi
+Fon,fon_Latn,fo
+French,fra_Latn,fr
+Friulian,fur_Latn,fu
+Scottish Gaelic,gla_Latn,gl
+Guarani,grn_Latn,gr
+Gujarati,guj_Gujr,gu
+Haitian Creole,hat_Latn,ha
+Hebrew,heb_Hebr,he
+Hindi,hin_Deva,hi
+Chhattisgarhi,hne_Deva,hn
+Croatian,hrv_Latn,hr
+Hungarian,hun_Latn,hu
+Armenian,hye_Armn,hy
+Igbo,ibo_Latn,ib
+Ilocano,ilo_Latn,il
+Indonesian,ind_Latn,in
+Icelandic,isl_Latn,is
+Italian,ita_Latn,it
+Javanese,jav_Latn,ja
+Japanese,jpn_Jpan,jp
+Kabyle,kab_Latn,ka
+Central Kanuri (Arabic script),knc_Arab,kn
+Kabiyè,kbp_Latn,kb
+Kabuverdianu,kea_Latn,ke
+Khmer,khm_Khmr,kh
+Kikuyu,kik_Latn,ki
+Kimbundu,kmb_Latn,km
+Kikongo,kon_Latn,ko
+Lao,lao_Laoo,la
+Ligurian,lij_Latn,li
+Lombard,lmo_Latn,lm
+Latgalian,ltg_Latn,lt
+Luba-Kasai,lua_Latn,lu
+Standard Latvian,lvs_Latn,lv
+Magahi,mag_Deva,ma
+Minangkabau (Arabic script),min_Arab,mi
+Macedonian,mkd_Cyrl,mk
+Plateau Malagasy,plt_Latn,pl
+Maltese,mlt_Latn,ml
+Meitei (Bengali script),mni_Beng,mn
+Mossi,mos_Latn,mo
+Maori,mri_Latn,mr
+Burmese,mya_Mymr,my
+Dutch,nld_Latn,nl
+Norwegian Nynorsk,nno_Latn,nn
+Norwegian Bokmål,nob_Latn,no
+Nepali,npi_Deva,np
+Northern Sotho,nso_Latn,ns
+Nuer,nus_Latn,nu
+Nyanja,nya_Latn,ny
+Occitan,oci_Latn,oc
+West Central Oromo,gaz_Latn,ga
+Odia,ory_Orya,or
+Pangasinan,pag_Latn,pa
+Western Persian,pes_Arab,pe
+Polish,pol_Latn,po
+Dari,prs_Arab,pr
+Southern Pashto,pbt_Arab,pb
+Ayacucho Quechua,quy_Latn,qu
+Romanian,ron_Latn,ro
+Rundi,run_Latn,ru
+Sango,sag_Latn,sa
+Sicilian,scn_Latn,sc
+Shan,shn_Mymr,sh
+Sinhala,sin_Sinh,si
+Slovak,slk_Latn,sl
+Samoan,smo_Latn,sm
+Shona,sna_Latn,sn
+Somali,som_Latn,so
+Spanish,spa_Latn,sp
+Tosk Albanian,als_Latn,al
+Sardinian,srd_Latn,sr
+Swati,ssw_Latn,ss
+Sundanese,sun_Latn,su
+Swedish,swe_Latn,sw
+Silesian,szl_Latn,sz
+Tamil,tam_Taml,ta
+Telugu,tel_Telu,te
+Tajik,tgk_Cyrl,tg
+Thai,tha_Thai,th
+Tigrinya,tir_Ethi,ti
+Tok Pisin,tpi_Latn,tp
+Tswana,tsn_Latn,ts
+Turkmen,tuk_Latn,tu
+Twi,twi_Latn,tw
+Central Atlas Tamazight,tzm_Tfng,tz
+Uyghur,uig_Arab,ui
+Ukrainian,ukr_Cyrl,uk
+Umbundu,umb_Latn,um
+Urdu,urd_Arab,ur
+Northern Uzbek,uzn_Latn,uz
+Venetian,vec_Latn,ve
+Vietnamese,vie_Latn,vi
+Waray,war_Latn,wa
+Wolof,wol_Latn,wo
+Xhosa,xho_Latn,xh
+Eastern Yiddish,ydd_Hebr,yd
+Yoruba,yor_Latn,yo
+Yue Chinese,yue_Hant,yu
+Chinese (Simplified),zho_Hans,zh
+Standard Malay,zsm_Latn,zs
+Zulu,zul_Latn,zu
